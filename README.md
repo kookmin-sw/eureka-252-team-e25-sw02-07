@@ -92,6 +92,21 @@
  초개인화 시대의 문화는 AI의 효율과 인간의 감성이 공존하는 예술 생태계로 진화한다.
 ```
 
+BCI 
+- ['뉴럴링크 칩' 뇌 이식 후 1년…"게임 실력 늘었다" : 동아사이언스](https://m.dongascience.com/news.php?idx=70728)
+
+XR 
+- [Apple Vision Pro - Apple (KR)](https://www.apple.com/kr/apple-vision-pro/)
+- [Meta Quest 3: 차세대 혼합 현실 헤드셋 \| Meta 스토어](https://www.meta.com/kr/quest/quest-3/)
+
+생성형 AI
+- [Magica: AI UGC game engine](https://blog.dynamicslab.ai/)
+
+감정 분석
+- [EEG-Based BCI Emotion Recognition: A Survey - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7570756/)
+
+---
+
 - 기관/부서 인터뷰 ✔️ 
 
 - 현장 탐방 ✔️  

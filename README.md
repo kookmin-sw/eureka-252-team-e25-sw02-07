@@ -105,6 +105,9 @@ XR
 감정 분석
 - [EEG-Based BCI Emotion Recognition: A Survey - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7570756/)
 
+
+<img src="/2040-poster.png" height=1060px/>
+
 ---
 
 - 기관/부서 인터뷰 ✔️ 
